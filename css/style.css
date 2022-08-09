@@ -2,7 +2,8 @@
 
 #botonera{
 	background-color: rgba(3, 187, 133, 0.7);
-	font-family: 'Fira Sans', sans-serif;
+	font-family:'Fira Sans', sans-serif;
+	color: blue;
 }
 #botonera img{
 	width: 200px;
@@ -16,6 +17,19 @@
 	align-items: center;
 	overflow-x: hidden;
 	background: linear-gradient(to left,rgba(3, 187, 133, 0.7),white);
+}
+#qs{
+	margin-top: 5%;
+	margin: 5%;
+}
+#home{
+	margin: 5%;
+	margin-top: 5%;
+	height: 100%;
+}
+#lista{
+	margin-top: 1%;
+	
 }
 h5{
 	color:white;
